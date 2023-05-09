@@ -1,1 +1,2 @@
-#kendimi ve şehrimi tanıtan basit bir web sitesi yapmak bu projenin amacı.
+## Projenin Amacı 
+Kendimi ve Şehrimi tanıtan web sayfası oluşturmak.
